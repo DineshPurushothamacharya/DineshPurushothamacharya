@@ -8,9 +8,9 @@ Java | REST | Kafka | Spring | JS
  
 * Primary coding language: Java.
 * I’m currently working on my portfolio.
-* I am currently learning Kafka Streams
-* I'm looking to collaborate on Open source project for Hacktoberfest
-* Experienced Software Engineer 
+* I am currently learning Kafka Streams.
+* I'm looking to collaborate on Open source project.
+* Experienced Software Engineer.
 * Ask me about anything, I'll be happy to help.
 
 <summary>📊 Github Stats</summary>
