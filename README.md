@@ -15,6 +15,4 @@ Java | REST | Kafka | Spring | JS
 
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DineshPurushothamacharya&show_icons=true&theme=gotham" alt="Dinesh Purushothamacharya | Stats" />
-
-</details>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DineshPurushothamacharya&show_icons=true&theme=gotham" alt="Dinesh Purushothamacharya | Stats" />
