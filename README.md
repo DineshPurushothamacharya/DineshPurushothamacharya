@@ -18,7 +18,3 @@ Java | REST | Kafka | Spring | JS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DineshPurushothamacharya&show_icons=true&theme=gotham" alt="Dinesh Purushothamacharya | Stats" />
 
 </details>
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{DineshPurushothamacharya}/count.svg)
- 
