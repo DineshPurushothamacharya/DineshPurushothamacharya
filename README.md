@@ -1,5 +1,5 @@
 # [Dinesh Purushothamacharya](https://www.google.com/)
-Java | REST | Kafka | Spring | React
+Java | Kotlin | REST | Kafka | Spring | React
 
 * Primary coding language: Java.
 * I’m currently working on my portfolio.
